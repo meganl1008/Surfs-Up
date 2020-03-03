@@ -26,4 +26,4 @@ Process: Used Flask to create routes
 
 <b>Step 3: Performed additional analysis </b>
 - Temperature Analysis 1 using SQL Alchemy: Determined monthly temperature trends and calculated average temperatures at all stations across all years 
-- Temperature Analysis using Python: Calculated daily normals (avg, min, max, temps) to identify best times of the year to travel to Hawaii based off weather trends
+- Temperature Analysis 2 using Python: Calculated daily normals (avg, min, max, temps) to identify best times of the year to travel to Hawaii based off weather trends
