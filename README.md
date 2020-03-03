@@ -6,6 +6,7 @@ This project is designed to share my knowledge on Advance Data Storage
 In this project, I have conducted analysis and data exploration from a climate database containing historical data on Hawaii's weather (using sqlite files)
 
 <b>Step 1: Climate Analysis </b>
+
 Precipitation Analysis
 1. Used SQLAlchemy to connect to sqlite database
 2. Designed a query to retrieve the last 12 months of precipitation data 
