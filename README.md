@@ -19,6 +19,7 @@ Station Analysis
 3. Plot results 
 
 <b>Step 2: Climate App </b>
+
 Goal: Designed a Flask API based on the queries determined in Step 1
 Process: Used Flask to create routes
 
