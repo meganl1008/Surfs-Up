@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# Surfs Up
 
 This project is designed to share my knowledge on Advance Data Storage
 [technologies utilized: SQLAlchemy ORM queries, Pandas, Matplotlib]
