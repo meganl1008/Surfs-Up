@@ -25,4 +25,6 @@ Hawaii.sqlite
 - Which station has the highest number of observations?
 - Design a query to retrieve the last 12 months of temperature observation data (tobs)
 - Filter by the station with the highest number of observations
-- Plot the results as a histogram with bins=12.
+- Plot the results as a histogram with bins=12
+
+<img src = "results/temperature_observation_data.png" width = "15%">
