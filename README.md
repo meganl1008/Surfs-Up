@@ -13,11 +13,9 @@ Hawaii.sqlite
 - Select only the date and prcp values
 - Load the query results into a Pandas DataFrame and set the index to the date column
 - Sort the DataFrame values by date
-- Plot the results using the DataFrame plot method 
-
+- Plot the results using the DataFrame plot method  <br />
 <img src = "results/precipitation.png" width = "30%">
-- Use Pandas to print the summary statistics for the precipitation data 
-
+- Use Pandas to print the summary statistics for the precipitation data  <br />
 <img src = "results/precip_summary_table.png" width = "15%"> 
 
 ### Station Analysis
