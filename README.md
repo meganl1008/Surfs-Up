@@ -28,5 +28,5 @@ Hawaii.sqlite
 - Plot the results as a histogram with bins=12
 
 <img src = "results/temperature_observation_data.png" width = "60%">
-<img src = "results/trip_avg.png" width = "60%">
+<img src = "results/trip_avg.png" width = "40%">
 <img src = "results/area_plot.png" width = "60%">
