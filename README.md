@@ -14,7 +14,7 @@ Hawaii.sqlite
 - Load the query results into a Pandas DataFrame and set the index to the date column
 - Sort the DataFrame values by date
 - Plot the results using the DataFrame plot method  <br />
-<img src = "results/precipitation.png" width = "30%">
+<img src = "results/precipitation.png" width = "50%">
 - Use Pandas to print the summary statistics for the precipitation data  <br />
 <img src = "results/precip_summary_table.png" width = "15%"> 
 
@@ -27,4 +27,4 @@ Hawaii.sqlite
 - Filter by the station with the highest number of observations
 - Plot the results as a histogram with bins=12
 
-<img src = "results/temperature_observation_data.png" width = "30%">
+<img src = "results/temperature_observation_data.png" width = "60%">
