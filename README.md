@@ -27,4 +27,4 @@ Hawaii.sqlite
 - Filter by the station with the highest number of observations
 - Plot the results as a histogram with bins=12
 
-<img src = "results/temperature_observation_data.png" width = "15%">
+<img src = "results/temperature_observation_data.png" width = "30%">
