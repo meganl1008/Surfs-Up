@@ -18,3 +18,5 @@ Hawaii.sqlite
 
 <img src = "results/precipitation.png" width = "60%">
 
+## Station Analysis
+- Use Pandas to print the summary statistics for the precipitation data
